@@ -4,7 +4,7 @@ Welcome to **python-star-pattern**!
 A fun and interactive collection of Python programs to print various star (asterisk) patterns.  
 Perfect for beginners who want to master loops, conditionals, and creative output formatting!
 
----
+<br> <br>
 
 ## 📝 About Star Patterns
 
@@ -14,7 +14,7 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
 
 
 
----
+<br> <br>
 
 ## 🖼️ Gallery
 
@@ -38,7 +38,10 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
   <img src="screenshots/diamond.png" alt="Diamond Pattern" width="400"/>
 </details>
 
----
+
+<br> <br>
+
+
 
 ## 🚀 Getting Started
 
@@ -55,7 +58,7 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
    python pattern_filename.py
    ```
 
----
+<br> <br>
 
 
 Happy Coding!  
