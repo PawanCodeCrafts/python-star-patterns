@@ -12,22 +12,7 @@ Perfect for beginners who want to master loops, conditionals, and creative outpu
 They are a classic way to practice programming fundamentals such as loops, conditional statements, and nested structures.  
 Typical patterns include squares, triangles, pyramids, diamonds, and more – each helping you understand how to control code flow and output formatting.
 
----
 
-## 🚀 Getting Started
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/PawanCodeCrafts/python-star-pattern.git
-   ```
-2. **Navigate to the folder**
-   ```bash
-   cd python-star-pattern
-   ```
-3. **Run the pattern file**
-   ```bash
-   python pattern_filename.py
-   ```
 
 ---
 
@@ -53,34 +38,25 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
   <img src="screenshots/diamond.png" alt="Diamond Pattern" width="400"/>
 </details>
 
-*(Add your own screenshots in the `screenshots/` folder!)*
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/PawanCodeCrafts/python-star-pattern.git
+   ```
+2. **Navigate to the folder**
+   ```bash
+   cd python-star-pattern
+   ```
+3. **Run the pattern file**
+   ```bash
+   python pattern_filename.py
+   ```
 
 ---
 
-## 🎉 Contributing
-
-Pull requests are welcome!  
-Feel free to submit new patterns, add more screenshots, or improve existing code.
-
-**How to contribute:**
-- Fork the repo 🍴
-- Add your pattern or screenshot ✍️
-- Create a pull request 🚦
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License.
-
----
-
-## 💬 Let's Connect!
-
-Have questions, ideas, or feedback?  
-Open an [issue](https://github.com/PawanCodeCrafts/python-star-pattern/issues) or connect with me [@PawanCodeCrafts](https://github.com/PawanCodeCrafts)!
-
----
 
 Happy Coding!  
 🌠✨🌟
