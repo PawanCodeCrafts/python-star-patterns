@@ -16,7 +16,7 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
 
 <br> <br>
 
-## 🖼️ Gallery
+## 🖼️ Screenshots
 
 <details>
   <summary>Square Star Pattern</summary>
