@@ -17,26 +17,17 @@ Typical patterns include squares, triangles, pyramids, diamonds, and more – ea
 <br> <br>
 
 ## 🖼️ Screenshots
+### for code check patterns.ipynb
 
-<details>
-  <summary>Square Star Pattern</summary>
-  <img src="screenshots/square_pattern.png" alt="Square Star Pattern" width="400"/>
-</details>
+| <img src="screenshots/s1.png" width="150"/> | <img src="screenshots/s2.png" width="150"/> | <img src="screenshots/s3.png" width="150"/> | <img src="screenshots/s4.png" width="150"/> |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| <img src="screenshots/s5.png" width="150"/> | <img src="screenshots/s6.png" width="150"/> | <img src="screenshots/s7.png" width="150"/> | <img src="screenshots/s78.png" width="150"/> |
+| <img src="screenshots/s9.png" width="150"/> | <img src="screenshots/s10.png" width="150"/> | <img src="screenshots/s11.png" width="150"/> | <img src="screenshots/s12.png" width="150"/> |
+| <img src="screenshots/s13.png" width="150"/> | <img src="screenshots/s14.png" width="150"/> | <img src="screenshots/s15.png" width="150"/> | <img src="screenshots/s16.png" width="150"/> |
+| <img src="screenshots/s18.png" width="150"/> | <img src="screenshots/s19.png" width="150"/> | <img src="screenshots/s20.png" width="150"/> |                                             |
 
-<details>
-  <summary>Right Triangle Star Pattern</summary>
-  <img src="screenshots/right_triangle.png" alt="Right Triangle Pattern" width="400"/>
-</details>
 
-<details>
-  <summary>Pyramid Star Pattern</summary>
-  <img src="screenshots/pyramid.png" alt="Pyramid Pattern" width="400"/>
-</details>
 
-<details>
-  <summary>Diamond Star Pattern</summary>
-  <img src="screenshots/diamond.png" alt="Diamond Pattern" width="400"/>
-</details>
 
 
 <br> <br>
